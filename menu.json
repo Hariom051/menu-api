@@ -1,0 +1,18 @@
+{
+	"menus": [{
+			"name": "Add Task",
+			"url": "/add",
+			"active": "yes"
+		},
+		{
+			"name": "View Task",
+			"url": "/view",
+			"active": "yes"
+		},
+		{
+			"name": "Search Task",
+			"url": "/search",
+			"active": "yes"
+		}
+	]
+}
